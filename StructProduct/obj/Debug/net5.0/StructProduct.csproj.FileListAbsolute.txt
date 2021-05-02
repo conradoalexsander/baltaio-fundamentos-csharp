@@ -1,0 +1,16 @@
+C:\Users\conrado.goncalves\Documents\Dev Estudos\baltaio\FundamentosCSharp\StructProduct\bin\Debug\net5.0\StructProduct.exe
+C:\Users\conrado.goncalves\Documents\Dev Estudos\baltaio\FundamentosCSharp\StructProduct\bin\Debug\net5.0\StructProduct.deps.json
+C:\Users\conrado.goncalves\Documents\Dev Estudos\baltaio\FundamentosCSharp\StructProduct\bin\Debug\net5.0\StructProduct.runtimeconfig.json
+C:\Users\conrado.goncalves\Documents\Dev Estudos\baltaio\FundamentosCSharp\StructProduct\bin\Debug\net5.0\StructProduct.runtimeconfig.dev.json
+C:\Users\conrado.goncalves\Documents\Dev Estudos\baltaio\FundamentosCSharp\StructProduct\bin\Debug\net5.0\StructProduct.dll
+C:\Users\conrado.goncalves\Documents\Dev Estudos\baltaio\FundamentosCSharp\StructProduct\bin\Debug\net5.0\ref\StructProduct.dll
+C:\Users\conrado.goncalves\Documents\Dev Estudos\baltaio\FundamentosCSharp\StructProduct\bin\Debug\net5.0\StructProduct.pdb
+C:\Users\conrado.goncalves\Documents\Dev Estudos\baltaio\FundamentosCSharp\StructProduct\obj\Debug\net5.0\StructProduct.csprojAssemblyReference.cache
+C:\Users\conrado.goncalves\Documents\Dev Estudos\baltaio\FundamentosCSharp\StructProduct\obj\Debug\net5.0\StructProduct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conrado.goncalves\Documents\Dev Estudos\baltaio\FundamentosCSharp\StructProduct\obj\Debug\net5.0\StructProduct.AssemblyInfoInputs.cache
+C:\Users\conrado.goncalves\Documents\Dev Estudos\baltaio\FundamentosCSharp\StructProduct\obj\Debug\net5.0\StructProduct.AssemblyInfo.cs
+C:\Users\conrado.goncalves\Documents\Dev Estudos\baltaio\FundamentosCSharp\StructProduct\obj\Debug\net5.0\StructProduct.csproj.CoreCompileInputs.cache
+C:\Users\conrado.goncalves\Documents\Dev Estudos\baltaio\FundamentosCSharp\StructProduct\obj\Debug\net5.0\StructProduct.dll
+C:\Users\conrado.goncalves\Documents\Dev Estudos\baltaio\FundamentosCSharp\StructProduct\obj\Debug\net5.0\ref\StructProduct.dll
+C:\Users\conrado.goncalves\Documents\Dev Estudos\baltaio\FundamentosCSharp\StructProduct\obj\Debug\net5.0\StructProduct.pdb
+C:\Users\conrado.goncalves\Documents\Dev Estudos\baltaio\FundamentosCSharp\StructProduct\obj\Debug\net5.0\StructProduct.genruntimeconfig.cache
